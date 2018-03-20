@@ -34,7 +34,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllExport", "hw3\DllExport\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectStaticLib", "hw3\ProjectStaticLib\ProjectStaticLib.vcxproj", "{7368E5B8-BC5A-4469-A67F-7247B2FD2604}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLibImport", "StaticLibImport\StaticLibImport.vcxproj", "{0EA9F54A-D61B-421B-B708-4C81E09F44D8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLibImport", "hw3\StaticLibImport\StaticLibImport.vcxproj", "{0EA9F54A-D61B-421B-B708-4C81E09F44D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
